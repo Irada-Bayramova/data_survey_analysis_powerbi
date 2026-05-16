@@ -4,7 +4,7 @@
 
 ## Project Overview
 
-This project presents a detailed analysis of the \*\*Data Professional Survey**, covering responses from **630 participants** worldwide. The goal of this dashboard is to provide a clear picture of the data industry in 2022-2023, focusing on salary benchmarks, popular technologies, career transition patterns, and overall job satisfaction.
+This project presents a detailed analysis of the **Data Professional Survey**, covering responses from **630 participants** worldwide. The goal of this dashboard is to provide a clear picture of the data industry in 2022-2023, focusing on salary benchmarks, popular technologies, career transition patterns, and overall job satisfaction.
 
 
 
